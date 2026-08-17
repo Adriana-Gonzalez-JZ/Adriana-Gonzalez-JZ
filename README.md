@@ -1,7 +1,7 @@
 # 💫 About Me:
 Actualmente estoy trabajando en proyectos de desarrollo de software y páginas web
  Estoy desarrollando mis habilidades en programación y diseño de interfaces
- Actualmente estoy aprendiendo HTML, CSS, JavaScript y Python
+ Actualmente estoy aprendiendo HTML, CSS, JavaScript, Python y figma
  Estoy estudiando Desarrollo de Software y aprendiendo nuevas tecnologías
  Me interesa el diseño web, las interfaces modernas y la experiencia del usuario
  Estoy buscando colaborar en proyectos de desarrollo web y programación
