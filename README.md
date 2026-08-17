@@ -1,6 +1,16 @@
 # 💫 About Me:
-Actualmente estoy trabajando en proyectos de desarrollo de software Estoy buscando colaborar en proyectos de diseño y web<br> Estoy buscando ayuda con programación y desarrollo de software<br> Actualmente estoy aprendiendo HTML, CSS, JavaScript y Python<br> Pregúntame sobre desarrollo web y programación<br> Me gusta diseñar y  convertir ideas en código
-
+Actualmente estoy trabajando en proyectos de desarrollo de software y páginas web
+ Estoy desarrollando mis habilidades en programación y diseño de interfaces
+ Actualmente estoy aprendiendo HTML, CSS, JavaScript y Python
+ Estoy estudiando Desarrollo de Software y aprendiendo nuevas tecnologías
+ Me interesa el diseño web, las interfaces modernas y la experiencia del usuario
+ Estoy buscando colaborar en proyectos de desarrollo web y programación
+ Estoy interesado en aprender sobre nuevas herramientas y lenguajes de programación
+ Pregúntame sobre HTML, CSS, programación y desarrollo web
+ Mi objetivo es mejorar constantemente mis habilidades como desarrollador
+ Me gusta crear proyectos que sean funcionales, creativos y fáciles de usar
+ Dato curioso: Me gusta transformar ideas en proyectos utilizando código
+ Meta actual: seguir aprendiendo y construir proyectos cada vez mejores
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:10196652@clases.edu.sv) 
